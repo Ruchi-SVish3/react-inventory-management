@@ -1,0 +1,55 @@
+.home-main{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 20px;
+   background-color: bisque;
+   
+
+}
+.Image{
+
+    width: 30rem;
+    height: 25rem;
+    background-image: url('./logo/Screenshot\ 2022-12-14\ 094641.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.para{
+    padding: auto;
+    width: 30rem;
+    height: 30rem;
+}
+.div2{
+    width: 100%;
+    height: 25rem;
+    position: relative;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+   
+    
+}
+.image{
+    background-image: url('https://learn.g2.com/hubfs/Inventory%20management-4-png.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 40rem;
+    width: 40rem;
+}
+
+.para1{
+    padding: auto;
+    width: 30rem;
+    height: 30rem;
+}
+.para3{
+    padding: auto;
+    width: 20rem;
+    height: 30rem;
+}
+

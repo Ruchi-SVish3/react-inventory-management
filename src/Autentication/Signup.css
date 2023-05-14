@@ -1,0 +1,34 @@
+
+.main{
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+ background-color: aqua;
+}
+
+.form{
+ 
+  margin-top: 1rem;
+  position: relative;
+  max-width: 500px;
+  width: 100%;
+ 
+}
+.img{
+ 
+  width: 30rem;
+  height: 30rem;
+  background-image: url('https://d38cf3wt06n6q6.cloudfront.net/tyasuitefront/webgpcs/images/warehouse-management-software.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  
+}
+.h5{
+  position: relative;
+ 
+  top:2rem;
+  left:4rem
+
+}
+
