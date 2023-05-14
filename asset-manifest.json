@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-inventory-management/static/css/main.b0bdb738.css",
+    "main.js": "/react-inventory-management/static/js/main.c0f0fdae.js",
+    "static/media/Screenshot 2022-12-14 094641.jpg": "/react-inventory-management/static/media/Screenshot 2022-12-14 094641.d1f51245a3f4515ae815.jpg",
+    "index.html": "/react-inventory-management/index.html",
+    "main.b0bdb738.css.map": "/react-inventory-management/static/css/main.b0bdb738.css.map",
+    "main.c0f0fdae.js.map": "/react-inventory-management/static/js/main.c0f0fdae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0bdb738.css",
+    "static/js/main.c0f0fdae.js"
+  ]
+}
